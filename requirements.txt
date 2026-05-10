@@ -1,0 +1,8 @@
+# GitConflictPilot - Zero Dependencies
+# This package has no external dependencies beyond Python 3.8+ standard library
+# All features are implemented using only Python built-in modules
+
+# Development dependencies (optional)
+# pytest>=7.0.0  # For running tests
+# mypy>=1.0.0   # For type checking
+# black>=23.0.0 # For code formatting
